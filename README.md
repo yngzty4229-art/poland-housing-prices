@@ -59,6 +59,8 @@ Add this remote MCP server to Claude, ChatGPT, Cursor or any other MCP client �
 
 Then ask, for example: *"How much is a 54 m² two-room flat at Długa 12 in Kraków worth? Use notarial deed prices."*
 
+Prefer a local server (stdio, `uvx`)? See [poland-housing-mcp](https://github.com/yngzty4229-art/poland-housing-mcp).
+
 ## Methodology
 
 - **Deeds:** apartment sales from the RCN register (GUGiK bulk export + live web service), market sales of full ownership only, implausible prices and outliers removed.
