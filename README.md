@@ -6,25 +6,25 @@ In November 2026, the median apartment sold in **Warsaw** went for **16,261 PLN 
 
 ![Map: median apartment price per m² in notarial deeds](maps/prices.png)
 
-## Latest numbers (2026-11-09)
+## Latest numbers (2026-11-16)
 
 | City | Median deed price (PLN/m²) | Year on year | New-build deeds | Resale deeds | Developers' asking price | Asking vs new-build deeds | Deeds up to |
 |---|---:|---:|---:|---:|---:|---:|---|
-| Warsaw | 16,261 | +6.2% | 16,093 | 16,480 | 17,300 | +7.5% | August 2026 |
-| Krakow | 14,958 | +3.5% | 15,015 | 14,841 | 15,773 | +5.0% | September 2026 |
+| Warsaw | 16,261 | +6.2% | 16,093 | 16,480 | 17,250 | +7.2% | August 2026 |
+| Krakow | 14,958 | +3.5% | 15,015 | 14,841 | 15,800 | +5.2% | September 2026 |
 | Wroclaw | 12,880 | +3.3% | 13,083 | 12,703 | 15,070 | +15.2% | August 2026 |
-| Gdansk | 12,619 | +6.4% | 11,927 | 13,111 | 15,693 | +31.6% | January 2026 |
+| Gdansk | 12,619 | +6.4% | 11,927 | 13,111 | 15,800 | +32.5% | January 2026 |
 | Gdynia | 11,935 | +2.7% | 12,362 | 11,691 | 13,400 | +8.4% | June 2026 |
-| Poznan | 11,540 | +3.5% | 11,798 | 11,358 | 13,197 | +11.9% | September 2026 |
-| Szczecin | 10,561 | +9.0% | 11,383 | 9,674 | 12,120 | +6.5% | September 2026 |
-| Lublin | 10,105 | +0.3% | 10,143 | 10,105 | 11,220 | – | September 2026 |
+| Poznan | 11,540 | +3.5% | 11,798 | 11,358 | 13,200 | +11.9% | September 2026 |
+| Szczecin | 10,561 | +9.0% | 11,383 | 9,674 | 12,200 | +7.2% | September 2026 |
+| Lublin | 10,105 | +0.3% | 10,143 | 10,105 | 11,202 | – | September 2026 |
 | Katowice | 10,000 | +0.7% | 11,336 | 8,163 | 12,500 | +10.3% | September 2026 |
 | Bialystok | 9,939 | +4.8% | 10,132 | 9,744 | 12,500 | +23.4% | October 2026 |
-| Torun | 9,570 | +8.2% | 10,100 | 8,969 | 12,375 | +22.5% | June 2026 |
-| Rzeszow | 9,554 | – | 9,327 | 10,625 | 10,800 | +15.8% | October 2026 |
+| Torun | 9,570 | +8.2% | 10,100 | 8,969 | 12,350 | +22.3% | June 2026 |
+| Rzeszow | 9,554 | – | 9,327 | 10,625 | 10,960 | +17.5% | October 2026 |
 | Kielce | 9,480 | +5.1% | 10,300 | 8,697 | 11,150 | +8.3% | June 2026 |
 | Olsztyn | 9,347 | +8.1% | 9,588 | 9,116 | 10,825 | +12.9% | August 2026 |
-| Lodz | 9,211 | – | 10,000 | 7,798 | 11,554 | +15.5% | September 2026 |
+| Lodz | 9,211 | – | 10,000 | 7,798 | 11,550 | +15.5% | September 2026 |
 | Czestochowa | 7,214 | +1.4% | 8,354 | 6,110 | 8,300 | −0.6% | September 2026 |
 
 ![Map: developers' asking prices vs new-build deeds](maps/gap.png)
