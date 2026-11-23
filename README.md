@@ -6,7 +6,7 @@ In November 2026, the median apartment sold in **Warsaw** went for **16,261 PLN 
 
 ![Map: median apartment price per m² in notarial deeds](maps/prices.png)
 
-## Latest numbers (2026-11-16)
+## Latest numbers (2026-11-23)
 
 | City | Median deed price (PLN/m²) | Year on year | New-build deeds | Resale deeds | Developers' asking price | Asking vs new-build deeds | Deeds up to |
 |---|---:|---:|---:|---:|---:|---:|---|
